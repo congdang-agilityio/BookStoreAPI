@@ -72,3 +72,5 @@ This project is an API project and use a depedency Data Layer to store data
 1. [Containerize a .NET Core API and run it on Azure container instance](https://www.youtube.com/watch?v=PMY4vYIqU6I)
 
 2. [Deploy an Azure Kubernetes Service cluster using the Azure CLI](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough#create-aks-cluster?ocid=AID754288&wt.mc_id=azfr-c9-cxa&wt.mc_id=CFID0517)
+
+3. [Build ASP.NET Core applications deployed as Linux containers into an AKS/Kubernetes orchestrator](https://docs.microsoft.com/en-us/dotnet/architecture/containerized-lifecycle/design-develop-containerized-apps/build-aspnet-core-applications-linux-containers-aks-kubernetes)
